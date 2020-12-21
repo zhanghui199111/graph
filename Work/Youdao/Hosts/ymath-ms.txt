@@ -1,0 +1,7 @@
+# ymath-ms
+103.72.47.155 k12admin.youdao.com
+103.72.47.155 k12queman.youdao.com
+103.72.47.155 shuxue.youdao.com
+103.72.47.155 k12internal.youdao.com
+
+10.109.1.80 accountserver
