@@ -1,0 +1,6 @@
+# ymath-offline
+123.58.182.196 k12internal.youdao.com
+123.58.182.196 shuxue.youdao.com
+
+10.131.36.251 accountserver
+10.131.37.83 ymath-data-center
