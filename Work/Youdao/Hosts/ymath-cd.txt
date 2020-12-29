@@ -4,4 +4,5 @@
 123.125.40.104 k12queman.youdao.com
 123.125.40.104 shuxue.youdao.com
 
-10.109.1.80 accountserver
+10.109.0.194 accountserver
+10.109.3.25 ymath-data-center
