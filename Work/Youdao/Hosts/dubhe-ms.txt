@@ -1,2 +1,2 @@
-# dubhe
+# dubhe-ms
 10.109.7.235 auth-server
