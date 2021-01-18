@@ -6,4 +6,4 @@
 
 10.108.160.184 zj174.corp.yodao.com zj174
 10.108.160.185 zj175.corp.yodao.com zj175
-10.105.137.83 ns014
+10.105.137.83 ns014.corp.youdao.com ns014
