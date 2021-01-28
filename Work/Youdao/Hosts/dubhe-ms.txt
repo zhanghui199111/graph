@@ -1,2 +1,3 @@
 # dubhe-ms
-10.109.7.235 auth-server
+10.109.7.235 auth-server.dubhe-ms.svc.cluster5.nbj04.corp.yodao.com
+10.109.12.177 node-pms-server.dubhe-ms.svc.cluster5.nbj04.corp.yodao.com
