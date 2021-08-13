@@ -1,9 +1,0 @@
-# dubhe
-10.109.4.191 redis-cluster
-10.109.6.117 zookeeper-1
-10.109.7.144 zookeeper-2
-10.109.0.154 zookeeper-3
-
-10.108.160.184 zj174.corp.yodao.com zj174
-10.108.160.185 zj175.corp.yodao.com zj175
-10.105.137.83 ns014.corp.youdao.com ns014
