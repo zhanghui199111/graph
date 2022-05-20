@@ -2,5 +2,4 @@
 59.111.163.8 training-test.163yun.com
 59.111.163.8 id-test.163cms.com
 59.111.163.8 console-test.g.163yun.com
-127.0.0.1 test.163yun.com test1.163yun.com test2.163yun.com test01.tas.163yun.com
 59.111.163.8 xxl-job-admin-test.163yun.com
