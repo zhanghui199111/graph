@@ -3,4 +3,7 @@
 59.111.163.8 id-test.163cms.com
 59.111.163.8 console-test.g.163yun.com
 59.111.163.8 xxl-job-admin-test.163yun.com
+
 59.111.163.8 elab-test.163yun.com
+59.111.163.8 elab-user-test.163yun.com
+59.111.163.8 elab-canoe-test.163yun.com
