@@ -7,4 +7,4 @@
 59.111.163.8 elab-user-dev.163yun.com
 59.111.163.8 elab-canoe-dev.163yun.com
 
-59.111.163.8 pl-dev.163yun.com
+59.111.163.8 pl-dev.ip.163yun.com
