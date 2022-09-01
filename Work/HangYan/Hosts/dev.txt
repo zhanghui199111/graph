@@ -1,6 +1,8 @@
 59.111.163.8 console-dev.g.163yun.com
 59.111.163.8 common-dev.163yun.com
 59.111.163.8 id-dev.g.163yun.com
+59.111.163.8 id.163yun-dev.com
+59.111.163.8 id.163cms-dev.com
 # 实训host
 59.111.163.8 training-dev.163yun.com
 59.111.163.8 elab-dev.163yun.com
