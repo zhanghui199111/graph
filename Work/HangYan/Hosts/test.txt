@@ -7,3 +7,4 @@
 59.111.163.8 elab-test.163yun.com
 59.111.163.8 elab-user-test.163yun.com
 59.111.163.8 elab-canoe-test.163yun.com
+59.111.163.8 gateway-test.g.163yun.com
