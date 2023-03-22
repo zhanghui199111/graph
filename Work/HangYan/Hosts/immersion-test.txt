@@ -14,7 +14,6 @@
 
 59.111.163.8 immersion-web-dev.163yun.com
 59.111.163.8 immersion-game-dev.163yun.com
-59.111.163.8 immersion-platform-dev.163yun.com
 59.111.163.8 immersion-pivot-dev.163yun.com
 59.111.163.8 immersion-admin-dev.163yun.com
 59.111.163.8 immersion-admin-server-dev.163yun.com
