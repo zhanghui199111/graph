@@ -1,11 +1,11 @@
-59.111.163.8 immersion-web-test.163yun.com
+# 59.111.163.8 immersion-web-test.163yun.com
 59.111.163.8 immersion-game-test.163yun.com
-59.111.163.8 immersion-pivot-test.163yun.com
+# 59.111.163.8 immersion-pivot-test.163yun.com
 59.111.163.8 immersion-admin-test.163yun.com
 59.111.163.8 immersion-admin-server-test.163yun.com
 59.111.163.8 immersion-admin-api-test.163yun.com
 
-59.111.163.8 immersion-web-test2.163yun.com
+# 59.111.163.8 immersion-web-test2.163yun.com
 59.111.163.8 immersion-game-test2.163yun.com
 59.111.163.8 immersion-pivot-test2.163yun.com
 59.111.163.8 immersion-admin-test2.163yun.com
